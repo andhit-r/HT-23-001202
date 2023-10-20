@@ -1,0 +1,7 @@
+---
+
+mode: Modul Baru
+nama-modul: ssi-web-clear-all-filter
+repo: https://github.com/open-synergy/ssi-web
+dependensi:
+  - web
